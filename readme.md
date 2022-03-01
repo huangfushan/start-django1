@@ -67,7 +67,7 @@
 
 当然，除了这样一个 Django 的 Hello World 之外，我们还有一个[基于 Django 框架的博客案例](https://github.com/devsapp/start-web-framework/tree/master/example/django-blog/src) ，可供学习和参考。
 
------
+-----ss
 
 > - Serverless Devs 项目：https://www.github.com/serverless-devs/serverless-devs   
 > - Serverless Devs 文档：https://www.github.com/serverless-devs/docs   
